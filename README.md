@@ -1,0 +1,1 @@
+## Pequeño ejemplo de integración de spring con jsf usando configuración por código java
